@@ -16,6 +16,8 @@ This is the **FastAPI-based backend** for the **Medical Diagnosis Application**,
 
 📄 **Sample PDF Report:** [Download Here](/assets/sample-report.pdf)
 
+📄 **Project Report:** [Download Here](/assets/ProjectReport.pdf)
+
 ---
 
 ## 🚀 Core Features
